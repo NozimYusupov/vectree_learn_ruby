@@ -21,7 +21,3 @@ class Book
   end
 end
 
-book = Book.new
-
-book.title = "inferno"
-p book.title

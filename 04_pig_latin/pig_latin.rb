@@ -28,4 +28,4 @@ def translate(words)
   result.join(" ")
 end
 
-p translate('three ball')
+
